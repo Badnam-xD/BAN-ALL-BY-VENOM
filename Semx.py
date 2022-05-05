@@ -93,5 +93,5 @@ async def testing(event):
   LEAVE COMMAND 
 """
 print("Leave Command Soon Currently Am Busy") 
-print("STARTED SUCCESSFULLY... JOIN @RaichuOfficial") 
+print("STARTED SUCCESSFULLY... JOIN @GUJIYA_GARAM") 
 Blaze.run_until_disconnected()
